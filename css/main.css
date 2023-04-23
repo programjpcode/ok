@@ -1,0 +1,56 @@
+*{
+  margin: 0%;
+  padding: 0%;
+}
+@font-face {
+  font-family: "gorda";
+  src: url(Turista\ Gorda\ NF\ W01\ Regular.ttf);
+}
+.fundo{
+  background-color: black;
+  color: #f3dc7a;
+  background-position: center;
+  background-size:30%;
+
+ }
+.topo{
+  background-color: black;
+  color: #f3dc7a;
+  font-family: "gorda";
+  text-align:right;
+  text-transform:uppercase;
+  cursor:pointer;
+  }
+  img {
+    width: 68vh;
+    height: 60vh;
+   }
+.imagens{
+  background-color: black;
+  background-position: center;
+  height: 89vh;
+  text-align: center;
+  cursor: pointer;
+  }
+.botao{
+  width: 200px;
+  height: 38px;
+  font-size: 14px;
+  cursor: pointer;
+  margin: 3px;
+  background-color: white;
+  border:2cap;
+  color: black;
+  font-family: "gorda";
+  text-transform: uppercase;
+}
+.botao:hover{
+  background-color: grey;
+}
+.color{
+  background-color: black;
+  height: 15vh;
+  background-position: center;
+
+}
+
