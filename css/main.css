@@ -33,11 +33,11 @@
   cursor: pointer;
   }
 .botao{
-  width: 200px;
-  height: 38px;
-  font-size: 14px;
+  width: 200vh;
+  height: 38vh;
+  font-size: 14vh;
   cursor: pointer;
-  margin: 3px;
+  margin: 3vh;
   background-color: white;
   border:2cap;
   color: black;
